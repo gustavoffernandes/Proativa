@@ -1,0 +1,10 @@
+project_id = "outldutgxezxdkttcxsf"
+
+[functions.sync-google-sheets]
+verify_jwt = true
+
+[functions.auto-sync]
+verify_jwt = true
+
+[functions.create-user]
+verify_jwt = true
